@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/ecellwebsite/static/css/main.9deee342.chunk.css",
+    "main.js": "/ecellwebsite/static/js/main.d6a64ff4.chunk.js",
+    "main.js.map": "/ecellwebsite/static/js/main.d6a64ff4.chunk.js.map",
+    "runtime-main.js": "/ecellwebsite/static/js/runtime-main.7f4401fe.js",
+    "runtime-main.js.map": "/ecellwebsite/static/js/runtime-main.7f4401fe.js.map",
+    "static/css/2.af905212.chunk.css": "/ecellwebsite/static/css/2.af905212.chunk.css",
+    "static/js/2.66bff342.chunk.js": "/ecellwebsite/static/js/2.66bff342.chunk.js",
+    "static/js/2.66bff342.chunk.js.map": "/ecellwebsite/static/js/2.66bff342.chunk.js.map",
+    "index.html": "/ecellwebsite/index.html",
+    "static/css/2.af905212.chunk.css.map": "/ecellwebsite/static/css/2.af905212.chunk.css.map",
+    "static/css/main.9deee342.chunk.css.map": "/ecellwebsite/static/css/main.9deee342.chunk.css.map",
+    "static/js/2.66bff342.chunk.js.LICENSE.txt": "/ecellwebsite/static/js/2.66bff342.chunk.js.LICENSE.txt",
+    "static/media/kcecell.a58b3729.png": "/ecellwebsite/static/media/kcecell.a58b3729.png",
+    "static/media/study.ab455c93.png": "/ecellwebsite/static/media/study.ab455c93.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.7f4401fe.js",
+    "static/css/2.af905212.chunk.css",
+    "static/js/2.66bff342.chunk.js",
+    "static/css/main.9deee342.chunk.css",
+    "static/js/main.d6a64ff4.chunk.js"
+  ]
+}
